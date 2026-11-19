@@ -2,8 +2,8 @@
 
 ## Hai phần ôn thi đã được tách riêng
 
-- **Kết thúc môn:** 577 câu trắc nghiệm biên soạn từ toàn bộ 10 bài giảng, gồm đọc hiểu, ngữ pháp, từ vựng và bài tự học. Có 100 câu mới trong lần cập nhật này. Bộ TA DHQS58 không còn được dùng làm đề cương trắc nghiệm của môn học.
-- **Tốt nghiệp:** 30 câu hỏi gốc TA DHQS58 dành cho luyện nói; thêm bài nói mẫu tiếng Anh, ý chính, nghe mẫu, đồng hồ, thu âm và tự đánh giá. Mục đọc thành tiếng sử dụng các bài đọc trong 10 bài giảng.
+- **Kết thúc môn:** 577 câu trắc nghiệm biên soạn từ toàn bộ 10 bài giảng, gồm đọc hiểu, ngữ pháp, từ vựng và bài tự học. Có 100 câu mới trong lần cập nhật này. Bộ TA Trắc địa không còn được dùng làm đề cương trắc nghiệm của môn học.
+- **Tốt nghiệp:** 30 câu hỏi gốc TA Trắc địa dành cho luyện nói; thêm bài nói mẫu tiếng Anh, ý chính, nghe mẫu, đồng hồ, thu âm và tự đánh giá. Mục đọc thành tiếng sử dụng các bài đọc trong 10 bài giảng.
 - **Từ vựng:** 2.291 mục từ/cụm từ có nghĩa tiếng Việt và ngữ cảnh. Giữ các mục bảng từ gốc cùng phiên âm có trong tài liệu; bỏ từ chức năng quá cơ bản và mảnh từ dính do ngắt dòng.
 - **Học mỗi ngày:** thẻ từ có lịch ôn, luyện viết/nghe, đánh dấu từ và câu hỏi, câu sai, 32 đoạn đọc, 10 chủ điểm ngữ pháp, 45 câu tự học, ghi chú cá nhân.
 - **Theo dõi:** lịch sử có ngày giờ, thời lượng, điểm và từng lựa chọn; mở lại lượt làm và ôn riêng câu sai/bỏ trống, tiến độ theo bài, mục tiêu ngày, chuỗi ngày học và biểu đồ 7 ngày.
@@ -17,7 +17,7 @@ Giải nén ZIP rồi mở **index.html** bằng Chrome hoặc Edge. Tệp đã 
 ## Đưa lên GitHub Pages lần đầu
 
 1. Đăng nhập **https://github.com/mrboss1905**. Bấm dấu **+** ở góc phải, chọn **New repository**.
-2. Điền **on-thi-tacn-dhqs58** vào Repository name. Chọn **Public**, bật **Add a README file**, bấm **Create repository**. Nếu bạn đã có kho ôn thi, mở kho đó và làm từ bước 3.
+2. Điền **on-thi-tacn-tdbd** vào Repository name. Chọn **Public**, bật **Add a README file**, bấm **Create repository**. Nếu bạn đã có kho ôn thi, mở kho đó và làm từ bước 3.
 3. Ở tab **Code**, chọn **Add file**, rồi **Upload files**. Kéo **index.html đã giải nén** vào khung tải lên. Không tải nguyên ZIP. Tệp index.html phải nằm ngay ở gốc kho, cùng cấp README.md.
 4. Bấm **Commit changes**. Nếu có lựa chọn nhánh, chọn commit trực tiếp vào nhánh **main**.
 5. Vào **Settings**, chọn **Pages** ở menu bên trái. Trong **Build and deployment**, đặt **Source = Deploy from a branch**.
