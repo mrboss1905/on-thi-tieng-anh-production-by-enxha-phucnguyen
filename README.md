@@ -1,57 +1,61 @@
-# ÔN TIẾNG ANH CHUYÊN NGÀNH · PHIÊN BẢN 2
+# ÔN TIẾNG ANH CHUYÊN NGÀNH · TRẮC ĐỊA BẢN ĐỒ
 
-## Hai phần ôn thi đã được tách riêng
+Phiên bản 3 · Tập trung đọc, dịch và từ vựng trong bài.
 
-- **Kết thúc môn:** 577 câu trắc nghiệm biên soạn từ toàn bộ 10 bài giảng, gồm đọc hiểu, ngữ pháp, từ vựng và bài tự học. Có 100 câu mới trong lần cập nhật này. Bộ TA Trắc địa không còn được dùng làm đề cương trắc nghiệm của môn học.
-- **Tốt nghiệp:** 30 câu hỏi gốc TA Trắc địa dành cho luyện nói; thêm bài nói mẫu tiếng Anh, ý chính, nghe mẫu, đồng hồ, thu âm và tự đánh giá. Mục đọc thành tiếng sử dụng các bài đọc trong 10 bài giảng.
-- **Từ vựng:** 2.291 mục từ/cụm từ có nghĩa tiếng Việt và ngữ cảnh. Giữ các mục bảng từ gốc cùng phiên âm có trong tài liệu; bỏ từ chức năng quá cơ bản và mảnh từ dính do ngắt dòng.
-- **Học mỗi ngày:** thẻ từ có lịch ôn, luyện viết/nghe, đánh dấu từ và câu hỏi, câu sai, 32 đoạn đọc, 10 chủ điểm ngữ pháp, 45 câu tự học, ghi chú cá nhân.
-- **Theo dõi:** lịch sử có ngày giờ, thời lượng, điểm và từng lựa chọn; mở lại lượt làm và ôn riêng câu sai/bỏ trống, tiến độ theo bài, mục tiêu ngày, chuỗi ngày học và biểu đồ 7 ngày.
+## Các phần học
 
-Trắc nghiệm và bài nói mẫu là tài liệu tự luyện được biên soạn, không phải đề thi hay đáp án chính thức. Mức nói/đọc là tự đánh giá, chưa chấm phát âm tự động. Thời gian nói/đọc là mục tiêu tự luyện, không khẳng định thời gian thi chính thức.
+- **Kết thúc học phần:** 2,516 câu trong ngân hàng gồm đọc hiểu, dịch nghĩa và nghĩa từ trong bài. Khi trộn bài, ưu tiên khoảng 50% dịch nghĩa, 35% đọc hiểu, 15% từ vựng; số lượng thực tế điều chỉnh theo bộ lọc và câu còn có sẵn. Không đưa câu kiểm tra ngữ pháp vào ngân hàng kết thúc học phần.
+- **Đọc & nghe:** giữ đủ 32 bài đọc trong 10 bài. Bấm từ trong câu để xem nghĩa, IPA và nghe; nghe từng đoạn hoặc cả bài.
+- **Luyện dịch:** 232 câu/đoạn đã chọn từ cả 32 bài đọc, có bản dịch tham khảo do biên soạn. Đọc, dịch trong đầu, mở nghĩa rồi tự đánh dấu đã hiểu hoặc cần ôn. Có thể ẩn câu để luyện nghe hiểu.
+- **Từ vựng:** 2,805 mục từ/cụm từ. Giữ bảng Vocabulary gốc và thêm từ trong bài đọc, kể cả từ dễ như earth, sunlight, buildings, allows. Có bộ lọc theo bài và theo từng bài đọc. Các từ chức năng quá cơ bản được loại khỏi danh sách bổ sung.
+- **Postcard:** 9 chủ đề và 10 bộ theo bài, mỗi tấm tối đa 8 từ; lật nghĩa, nghe từ/cả nhóm và luyện đúng các từ trên tấm thẻ.
+- **Các cách ôn từ:** sổ từ có ngữ cảnh; thẻ hai chiều Anh–Việt, Việt–Anh; chọn nghĩa; nghe rồi chọn nghĩa; ghép cặp; nghe–viết; xáo trộn và ôn theo lịch.
+- **Tốt nghiệp:** giữ 30 chủ đề nói, bài mẫu, luyện đọc thành tiếng và công cụ thu âm/tự đánh giá từ bản bạn gửi.
+- **Tiến độ:** giữ lịch sử trắc nghiệm, câu sai, từ đã lưu và ghi chú; bổ sung lịch sử trò học từ và số lượt tự ôn câu dịch.
 
-## Cách mở nhanh trên máy
+Bản dịch và câu hỏi là tài liệu tự luyện, không phải đề thi hay đáp án chính thức. Các nội dung có yếu tố quân sự trong bài học tiếng Anh được giữ nguyên; tên giao diện theo bản bạn đã chỉnh.
 
-Giải nén ZIP rồi mở **index.html** bằng Chrome hoặc Edge. Tệp đã chứa giao diện, bài đọc, câu hỏi và hình minh họa; không cần cài môi trường lập trình. Giọng đọc phụ thuộc thiết bị. Thu âm dùng tốt nhất khi mở bản web HTTPS, cần cho phép micro.
+## Cách học hiệu quả
 
-## Đưa lên GitHub Pages lần đầu
+1. Mở Đọc hiểu, chọn một bài. Nghe một đoạn, đọc lại rồi bấm các từ chưa chắc nghĩa.
+2. Mở Tự dịch theo câu. Tự dịch trước khi xem nghĩa, nghe lại câu và lưu các từ khó.
+3. Vào Từ trong bài đọc để học đúng các từ của đoạn đó. Học thẻ, ghép cặp hoặc nghe–viết.
+4. Vào Kết thúc môn, luyện 10–20 câu. Kiểm tra từng câu, đọc bản dịch và nghe lại từ/câu trong đáp án.
+5. Ưu tiên mục Đến lịch ôn, Câu cần ôn và bộ từ đã lưu trong các buổi sau.
 
-1. Đăng nhập **https://github.com/mrboss1905**. Bấm dấu **+** ở góc phải, chọn **New repository**.
-2. Điền **on-thi-tacn-tdbd** vào Repository name. Chọn **Public**, bật **Add a README file**, bấm **Create repository**. Nếu bạn đã có kho ôn thi, mở kho đó và làm từ bước 3.
-3. Ở tab **Code**, chọn **Add file**, rồi **Upload files**. Kéo **index.html đã giải nén** vào khung tải lên. Không tải nguyên ZIP. Tệp index.html phải nằm ngay ở gốc kho, cùng cấp README.md.
-4. Bấm **Commit changes**. Nếu có lựa chọn nhánh, chọn commit trực tiếp vào nhánh **main**.
-5. Vào **Settings**, chọn **Pages** ở menu bên trái. Trong **Build and deployment**, đặt **Source = Deploy from a branch**.
-6. Trong **Branch**, chọn **main** và thư mục **/(root)**. Bấm **Save**.
-7. Chờ GitHub xuất bản, có thể mất tối đa khoảng 10 phút. Tải lại mục Pages, bấm **Visit site** để lấy đúng đường link của bạn. Mở link đó để học và gửi cho bạn bè.
+## Giọng đọc và IPA
 
-Nếu làm đúng tên kho ở trên, địa chỉ thường có dạng tài khoản.github.io/tên-kho/. Lấy địa chỉ thật bằng Visit site; gói ZIP không tự tạo kho hoặc tự bật Pages.
+Mặc định tốc độ 0,78× để nghe rõ hơn. Trong Cài đặt, có thể chọn giọng tiếng Anh, tốc độ và bật/tắt tự đọc sau khi kiểm tra. Hệ thống ưu tiên tên giọng nữ khi thiết bị có giọng phù hợp; danh sách và chất lượng giọng phụ thuộc trình duyệt/hệ điều hành. Không cần API key hay dịch vụ GPT.
 
-## Khi cập nhật sau này
+Nút loa dùng giọng đọc tiếng Anh của thiết bị. Trình nghe có Tạm dừng, Tiếp tục, Nghe lại và Dừng. Khi đổi câu/trang, âm thanh cũ dừng để tránh chồng tiếng.
 
-Mở kho cũ, chọn **Add file · Upload files**, tải tệp **index.html** mới vào đúng đường dẫn rồi **Commit changes**. GitHub thay tệp cùng tên và xuất bản lại theo cấu hình Pages sẵn có. Giữ nguyên kho và đường dẫn để tiếp tục dùng tiến độ đã lưu. Nếu còn thấy bản cũ, thử Ctrl+F5 hoặc mở lại trang sau khi quy trình Pages hoàn tất.
+IPA giữ phiên âm có trong bảng gốc. Phần bổ sung dùng CMU Pronouncing Dictionary chuyển từ ARPAbet sang IPA Mỹ ở mức khái quát, kèm một số ký hiệu thuật ngữ. Có thể có khác biệt với giọng Anh–Anh. 12 tên riêng của tác giả/nhà khoa học không có IPA được ghi là tên riêng, vẫn có nút nghe. Giấy phép từ điển nằm trong THIRD_PARTY_NOTICES.txt và được nhúng trong index.html.
 
-## Chuyển tiến độ từ bản hiện tại sang GitHub hoặc thiết bị khác
+## Mở trên máy
 
-1. Mở trang bạn đã học, vào **Cài đặt & sao lưu**.
-2. Bấm **Xuất bản sao JSON**, giữ tệp này trên máy.
-3. Mở link GitHub mới hoặc trình duyệt/thiết bị mới, vào **Cài đặt & sao lưu · Nhập bản sao**.
-4. Chọn đúng JSON. Xem thông tin rồi bấm **Khôi phục bản sao**. Khôi phục sẽ thay dữ liệu đang có trên trình duyệt đó; có thể xuất dữ liệu hiện tại trước khi thay.
+Giải nén ZIP, mở index.html bằng Chrome hoặc Edge. Giao diện, hình minh họa, câu hỏi và từ vựng đã được gói trong một tệp. Giọng đọc phụ thuộc các giọng có sẵn; một số giọng cần mạng. Thu âm hoạt động tốt nhất trên trang HTTPS và cần quyền micro.
 
-Tiến độ được lưu tại trình duyệt, không tự đồng bộ giữa các máy hoặc các tên miền. Bản mới đọc lại tiến độ của bản cũ khi cùng địa chỉ. Lượt cũ chỉ có điểm tổng sẽ giữ điểm tổng; lượt mới lưu chi tiết từng đáp án.
+## Cập nhật trang GitHub đang dùng
 
-Lịch sử giữ tối đa 200 lượt trắc nghiệm và 200 lượt nói/đọc. Nếu lịch sử chi tiết quá lớn, những lượt cũ được thu gọn còn điểm tổng để giữ bộ nhớ. Hãy xuất bản sao định kỳ.
+1. Trước khi cập nhật, vào Cài đặt & sao lưu của trang cũ, xuất bản sao JSON.
+2. Mở đúng repository đang dùng trong tài khoản mrboss1905. Không cần đổi tên kho hoặc tạo kho mới.
+3. Ở Code, chọn Add file → Upload files. Tải index.html, README.md và HUONG_DAN_GITHUB.html trong ZIP đã giải nén vào thư mục gốc. Có thể tải thêm THIRD_PARTY_NOTICES.txt để giữ thông tin giấy phép.
+4. Commit changes vào nhánh main. index.html mới thay tệp cũ cùng tên.
+5. Nếu Pages đã bật, trang tự được xuất bản lại. Kiểm tra Actions, chờ quy trình thành công, rồi mở link học cũ và nhấn Ctrl+F5 nếu vẫn thấy bản cũ.
+6. Nếu chưa bật Pages: Settings → Pages → Deploy from a branch → main → /(root) → Save, rồi Visit site.
 
-Thu âm nằm tạm trong phiên đang mở. Bấm **Tải bản thu** trước khi đóng/tải lại trang để giữ file âm thanh; JSON không chứa âm thanh. Bản sao có ghi nhận lượt nào đã thu âm, nhưng không mang theo âm thanh.
+Tên kho gợi ý trong hướng dẫn bạn gửi: on-thi-tacn-tdbd. Nếu kho hiện tại có tên khác, giữ nguyên kho đó và đường link hiện tại.
 
-## Cách ôn gợi ý
+## Lịch sử và sao lưu
 
-- Đọc một bài, học các từ khó và xem ngữ pháp tương ứng.
-- Luyện 10–20 câu theo bài, xem giải thích, lưu các câu muốn nhớ kỹ.
-- Mở Câu cần ôn để sửa lỗi. Ôn từ đến lịch trước rồi học từ mới.
-- Tự nói 1–2 chủ đề tốt nghiệp; xem khung ý trước, giấu bài mẫu khi tự trả lời, thu âm và nghe lại.
-- Mỗi vài buổi, làm thi thử trộn nhiều bài và so sánh các lượt trong Lịch sử.
+Bản mới giữ khóa lưu trữ tacn-tdbd-study-v1 từ tệp bạn gửi để nhận lại dữ liệu khi cùng trình duyệt và cùng tên miền. Nếu chuyển thiết bị/tên miền, xuất JSON ở trang cũ rồi nhập và khôi phục ở trang mới. Tệp sao lưu chứa cả lịch sử học từ và tiến độ luyện câu mới.
 
-## Tài liệu GitHub chính thức
+Các lượt cũ vẫn giữ điểm và lựa chọn đã lưu. Phiên trắc nghiệm cũ đang làm mà có câu ngữ pháp được bỏ khỏi phiên đang mở; lịch sử và kết quả đã nộp vẫn giữ nguyên. Lịch sử giữ tối đa 200 lượt trắc nghiệm, 200 lượt nói/đọc và 100 lượt trò học từ; các chi tiết cũ có thể được thu gọn khi cần tiết kiệm bộ nhớ.
 
-- https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
-- https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+Âm thanh thu âm nằm tạm trong phiên mở trang. Dùng Tải bản thu trước khi đóng/tải lại trang. Bản sao JSON không chứa các tệp âm thanh.
+
+## Tài liệu tham khảo
+
+- GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+- Giọng đọc của trình duyệt: https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis/getVoices
+- Từ điển phát âm CMU: https://github.com/cmusphinx/cmudict
